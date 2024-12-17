@@ -1,0 +1,35 @@
+# Blender 4.2.3 LTS MTL File: 'Golf.blend'
+# www.blender.org
+
+newmtl orig_02_-_Default
+Ns 69.644051
+Ka 1.000000 1.000000 1.000000
+Ks 0.760000 0.760000 0.760000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Stefan/Desktop/Various Assets/Golf/clubs_diff.png
+map_Bump -bm 1.000000 C:/Users/Stefan/Desktop/Various Assets/Golf/clubs_nm.png
+
+newmtl orig_02_-_Default.001
+Ns 69.644051
+Ka 1.000000 1.000000 1.000000
+Ks 0.760000 0.760000 0.760000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Stefan/Desktop/Various Assets/Golf/clubs_diff.png
+map_Bump -bm 1.000000 C:/Users/Stefan/Desktop/Various Assets/Golf/clubs_nm.png
+
+newmtl orig_02_-_Default.002
+Ns 69.644051
+Ka 1.000000 1.000000 1.000000
+Ks 0.760000 0.760000 0.760000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd C:/Users/Stefan/Desktop/Various Assets/Golf/clubs_diff.png
+map_Bump -bm 1.000000 C:/Users/Stefan/Desktop/Various Assets/Golf/clubs_nm.png
